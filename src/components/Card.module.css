@@ -1,0 +1,11 @@
+.container {
+  border: 1px solid rgba(0, 0, 0, 0.293);
+  width: 800px;
+  border-radius: 5px;
+  padding: 7px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
